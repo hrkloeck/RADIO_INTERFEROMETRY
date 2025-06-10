@@ -25,5 +25,7 @@
     - moresane
 
   - calibration
+    - generating a LSM
+      - this is a very complex thing currently      
     - CASA task (1 GC, 2GC)
     - [quartical](https://quartical.readthedocs.io/en/latest/) (2 GC, 3GC)
