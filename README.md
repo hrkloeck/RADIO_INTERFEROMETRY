@@ -1,8 +1,9 @@
-# RADIO_INTERFEROMETRY
+# RADIO INTERFEROMETRY
+
+This is a first try to collect a record of literature and information nessesary to understand and work woith interferometric data.
 
 - Some theory 
-  This is a first try to collect a good lib for interferometry
-
+  
   This paper provides a good overview on CASA and the nessesary steps of calibration and imaging
   [Bean et al. 2022](https://arxiv.org/pdf/2210.02276)
 
