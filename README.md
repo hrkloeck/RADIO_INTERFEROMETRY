@@ -25,6 +25,7 @@ This is a first try to collect a record of literature and information nessesary 
   - source finding
     - pybdfs
     - moresane
+    - [Jonah's full suit](https://github.com/JonahDW/Image-processing)
 
   - calibration
     - generating a LSM
