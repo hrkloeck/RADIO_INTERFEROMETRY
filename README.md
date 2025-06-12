@@ -15,6 +15,7 @@
 - Some practicallities
   
   - display visibilities
+    - [shadeMS](https://github.com/ratt-ru/shadeMS/tree/master)
 
   - imaging
     - wcsclean
