@@ -31,7 +31,8 @@ This is a first try to collect a record of literature and information nessesary 
       - this is a very complex thing currently
       - [tigger-lsm](https://github.com/ratt-ru/tigger-lsm/tree/master)
       - [wsclean predict](https://wsclean.readthedocs.io/en/latest/prediction.html)
-      - [LSM simulation CASA](https://casadocs.readthedocs.io/en/stable/examples/community/simulation_script_demo.html)    
+      - [crystalball](https://github.com/caracal-pipeline/crystalball?tab=readme-ov-file)
+      - [LSM simulation CASA] (https://casadocs.readthedocs.io/en/stable/examples/community/simulation_script_demo.html)    
     - CASA task (1 GC, 2GC)
     - [quartical](https://quartical.readthedocs.io/en/latest/) (2 GC, 3GC)
    
