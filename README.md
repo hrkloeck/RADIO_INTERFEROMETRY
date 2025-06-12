@@ -34,3 +34,5 @@ This is a first try to collect a record of literature and information nessesary 
       - [LSM simulation CASA](https://casadocs.readthedocs.io/en/stable/examples/community/simulation_script_demo.html)    
     - CASA task (1 GC, 2GC)
     - [quartical](https://quartical.readthedocs.io/en/latest/) (2 GC, 3GC)
+   
+- Some new stuff [LB](https://github.com/ratt-ru/pfb-imaging?tab=readme-ov-file)
