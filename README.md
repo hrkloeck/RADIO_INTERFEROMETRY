@@ -13,6 +13,8 @@ This is a first try to collect a record of literature and information nessesary 
   This is an entire course on interferometry by Oleg's group 
   [RATT-RU](https://github.com/ratt-ru/foi-course)
 
+  A paper summary on imaging [Urvashi Rau](https://safe.nrao.edu/wiki/pub/Software/Algorithms/WebHome/SummaryImagingRadioInterferometry.pdf)
+
 - Some practicallities
   
   - display visibilities
