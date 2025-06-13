@@ -25,8 +25,8 @@ This is a first try to collect a record of literature and information nessesary 
     - casa task
            
   - source finding
-    - pybdfs
-    - moresane
+    - [pybdfs](https://pybdsf.readthedocs.io/en/latest/)
+    - [Aegean](https://github.com/PaulHancock/Aegean)
     - [Jonah's full suit](https://github.com/JonahDW/Image-processing)
 
   - calibration
