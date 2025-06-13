@@ -32,13 +32,15 @@ This is a first try to collect a record of literature and information nessesary 
     - [Jonah's full suit](https://github.com/JonahDW/Image-processing)
 
   - calibration
-    - generating a LSM
+    - generating a model visibilities
       - this is a very complex thing currently
-      - [tigger-lsm](https://github.com/ratt-ru/tigger-lsm/tree/master)
       - [wsclean predict](https://wsclean.readthedocs.io/en/latest/prediction.html)
       - [crystalball](https://github.com/caracal-pipeline/crystalball?tab=readme-ov-file)    
       - [ft CASA](https://casadocs.readthedocs.io/en/v6.2.0/api/tt/casatasks.imaging.ft.html)
       - [LSM simulation CASA](https://casadocs.readthedocs.io/en/stable/examples/community/simulation_script_demo.html)
+
+    - annotate LSM sources for (2GC and 3GC)
+      - [tigger-lsm](https://github.com/ratt-ru/tigger-lsm/tree/master)
 
     - display calibration tables
       - [ragavi](https://github.com/ratt-ru/ragavi)   
