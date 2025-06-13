@@ -36,9 +36,9 @@ This is a first try to collect a record of literature and information nessesary 
       - this is a very complex thing currently
       - [tigger-lsm](https://github.com/ratt-ru/tigger-lsm/tree/master)
       - [wsclean predict](https://wsclean.readthedocs.io/en/latest/prediction.html)
-      - [crystalball](https://github.com/caracal-pipeline/crystalball?tab=readme-ov-file)
-      - [LSM simulation CASA] (https://casadocs.readthedocs.io/en/stable/examples/community/simulation_script_demo.html)    
+      - [crystalball](https://github.com/caracal-pipeline/crystalball?tab=readme-ov-file)    
       - [ft CASA](https://casadocs.readthedocs.io/en/v6.2.0/api/tt/casatasks.imaging.ft.html)
+      - [LSM simulation CASA](https://casadocs.readthedocs.io/en/stable/examples/community/simulation_script_demo.html)
 
     - display calibration tables
       - [ragavi](https://github.com/ratt-ru/ragavi)   
