@@ -21,8 +21,8 @@ This is a first try to collect a record of literature and information nessesary 
     - [shadeMS](https://github.com/ratt-ru/shadeMS/tree/master)
 
   - imaging
-    - wcsclean
-    - casa task
+    - [wcsclean](https://wsclean.readthedocs.io/en/latest/)
+    - [CASA TCLEAN task](https://casadocs.readthedocs.io/en/stable/api/casatasks.html#imaging)
            
   - source finding
     - [pybdfs](https://pybdsf.readthedocs.io/en/latest/)
