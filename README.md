@@ -15,6 +15,8 @@ This is a first try to collect a record of literature and information nessesary 
 
   A paper summary on imaging [Urvashi Rau](https://safe.nrao.edu/wiki/pub/Software/Algorithms/WebHome/SummaryImagingRadioInterferometry.pdf)
 
+  A nice youtube [Aaron Parsons](https://www.youtube.com/watch?v=bAK0GugbjKI)
+
 - Some practicallities
   
   - display visibilities
